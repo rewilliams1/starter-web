@@ -9,9 +9,9 @@
 
 # THANKS
 
-    <name>
+   rdub kobe
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    HTML5, CSS3, cloudformation
+    jQuery, Modernizr, ansible
