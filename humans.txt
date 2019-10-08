@@ -21,3 +21,5 @@
     jQuery, Modernizr,
     Machine Learning, GCP
     AWS, Azure, VMWare
+    Cloudformation, Terraform
+    Ansible, Chef
