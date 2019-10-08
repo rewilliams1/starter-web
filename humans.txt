@@ -5,13 +5,14 @@
 
    rdub kobe
    rdubkobe@gmail.com
-   Get Buckets LLC 
+   Get Buckets LLC
 
 # THANKS
 
-    <name>
+   rdub kobe
 
 # TECHNOLOGY COLOPHON
+
 
     HTML5, CSS3
     jQuery, Modernizr,
