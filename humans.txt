@@ -11,6 +11,7 @@
 
    rdub kobe
    Thanks for your great career
+   I learned most of your moves and applied to my game
 
 # TECHNOLOGY COLOPHON
 
@@ -18,4 +19,4 @@
     HTML5, CSS3
     jQuery, Modernizr,
     Machine Learning, GCP
-    AWS
+    AWS, Azure, VMWare
