@@ -17,9 +17,9 @@
 # TECHNOLOGY COLOPHON
 
 
-    HTML5, CSS3
+    HTML5, CSS3, Python, Java
     jQuery, Modernizr,
     Machine Learning, GCP
     AWS, Azure, VMWare
     Cloudformation, Terraform
-    Ansible, Chef
+    Ansible, Chef, Salt
